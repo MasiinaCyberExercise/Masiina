@@ -1,21 +1,21 @@
 FIN_R1
 VYOS
 
-Interface eth0 IP: 62.106.4.1/29 -> FW-1 (Masiina WAN) 62.106.4.2/29
-Interface eth1 IP: 62.106.5.1/29 -> RUS_R1 (eth 1) IP: 62.106.5.2/29 
-Interface eth2 IP: 62.106.6.1/29 -> FIN_R5 (eth 1) IP: 62.106.6.2/29
+Interface eth0 IP: 62.106.4.1/24 -> FW-1 (Masiina WAN) 62.106.4.2/24
+Interface eth1 IP: 62.106.5.1/24 -> RUS_R1 (eth 1) IP: 62.106.5.2/24 
+Interface eth2 IP: 62.106.6.1/24 -> FIN_R5 (eth 1) IP: 62.106.6.2/24
 
 RUS_R2
 VYOS
 
-Interface eth1 IP: 62.106.5.2/29 -> FIN_R1 (eth 1) IP: 62.106.5.1/29
-Interface eth2 IP: 194.154.64.1/29 -> POL_R3 (eth 0) IP: 194.154.64.2/29
+Interface eth1 IP: 62.106.5.2/24 -> FIN_R1 (eth 1) IP: 62.106.5.1/24
+Interface eth2 IP: 194.154.64.1/24 -> POL_R3 (eth 0) IP: 194.154.64.2/24
 Interface eth3 IP: -> Hissit
 
 POL_R3
 VYOS
 
-Interface eth0 IP: 194.154.64.2/29 -> RUS_R2 (eth 2) IP: 194.154.64.1/29
+Interface eth0 IP: 194.154.64.2/24 -> RUS_R2 (eth 2) IP: 194.154.64.1/24
 Interface eth1 IP: -> SWE_R4 (eth 0) IP
 Interface eth2 IP: -> Hissit
 
