@@ -11,6 +11,7 @@ VYOS
 Interface eth1 IP: 62.106.5.2/24 -> FIN_R1 (eth 2) IP: 62.106.5.1/24
 Interface eth2 IP: 194.154.64.1/24 -> POL_R3 (eth 1) IP: 194.154.64.2/24
 Interface eth3 IP: 194.154.64.3/24 -> HISSI_GW_RUS
+Interface eth4 IP: 194.154.65.1/24 -> RED_TEAM_GW_1 IP: 194.154.65.2/24
 ----------------------------------------------------------------------
 POL_R3
 VYOS
