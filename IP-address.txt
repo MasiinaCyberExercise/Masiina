@@ -24,14 +24,14 @@ SWE_R4
 VYOS
 
 Interface eth1 IP: 212.75.109.2/24  -> POL_R3 (eth 2) IP: 212.75.109.1/24
-Interface eth2 IP: 213.142.5.141/24 -> FIN_R5 (eth 1) IP: 213.142.5.142/24
+Interface eth2 IP: 213.142.5.141/24 -> FIN_R5 (eth 2) IP: 213.142.5.142/24
 Interface eth3 IP: 213.142.5.143/24 -> HISS_GW_SWE 
 -----------------------------------------------------------------------------
 FIN_R5
 VYOS
 
-Interface eth2 IP: 213.142.5.142/24 -> SWE_R4 (eth 1) IP: 213.142.5.141/24
-Interface eth1 IP: 62.106.6.2/24 -> FIN_R1 (eth 1) IP: 62.106.6.1/24
+Interface eth2 IP: 213.142.5.142/24 -> SWE_R4 (eth 2) IP: 213.142.5.141/24
+Interface eth1 IP: 62.106.6.2/24 -> FIN_R1 (eth 3) IP: 62.106.6.1/24
 Interface eth3 IP: 62.106.6.3/24 -> HISSI_GW_FIN
 Interface eth4 IP: 62.106.7.1/24 -> DNS IP: 62.106.7.2 // HTTP IP: 62.106.7.3
 Interface eth5 IP: 62.106.8.1/24 -> NTP
