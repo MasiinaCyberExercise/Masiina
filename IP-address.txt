@@ -33,3 +33,9 @@ Interface eth2 IP: 213.142.5.142/24 -> SWE_R4 (eth 1) IP: 213.142.5.141/24
 Interface eth1 IP: 62.106.6.2/24 -> FIN_R1 (eth 1) IP: 62.106.6.1/24
 Interface eth3 IP: 62.106.6.3/24 -> HISSI_GW_FIN
 ---------------------------------------------------------------------------
+MASIINA HQ
+Masiina WAN IP: 62.106.4.2/24
+Työasemaverkko 192.168.1.0/24
+Palvelinverkko 192.168.2.0/24
+Masiina HTTP palvelin IP: 192.168.2.10/24
+Masiina SNMP palvelin IP: 192.168.2.20/24
