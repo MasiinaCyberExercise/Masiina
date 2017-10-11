@@ -1,34 +1,35 @@
 FIN_R1
 VYOS
 
-Interface eth0 IP: 62.106.4.1/24 -> FW-1 (Masiina WAN) 62.106.4.2/24
-Interface eth1 IP: 62.106.5.1/24 -> RUS_R1 (eth 1) IP: 62.106.5.2/24 
-Interface eth2 IP: 62.106.6.1/24 -> FIN_R5 (eth 1) IP: 62.106.6.2/24
-
+Interface eth1 IP: 62.106.4.1/24 -> FW-1 (Masiina WAN) 62.106.4.2/24
+Interface eth2 IP: 62.106.5.1/24 -> RUS_R1 (eth 1) IP: 62.106.5.2/24 
+Interface eth3 IP: 62.106.6.1/24 -> FIN_R5 (eth 1) IP: 62.106.6.2/24
+---------------------------------------------------------------------
 RUS_R2
 VYOS
 
-Interface eth1 IP: 62.106.5.2/24 -> FIN_R1 (eth 1) IP: 62.106.5.1/24
-Interface eth2 IP: 194.154.64.1/24 -> POL_R3 (eth 0) IP: 194.154.64.2/24
-Interface eth3 IP: -> Hissit
-
+Interface eth1 IP: 62.106.5.2/24 -> FIN_R1 (eth 2) IP: 62.106.5.1/24
+Interface eth2 IP: 194.154.64.1/24 -> POL_R3 (eth 1) IP: 194.154.64.2/24
+Interface eth3 IP: 194.154.64.3/24 -> HISSI_GW_RUS
+----------------------------------------------------------------------
 POL_R3
 VYOS
 
-Interface eth0 IP: 194.154.64.2/24 -> RUS_R2 (eth 2) IP: 194.154.64.1/24
-Interface eth1 IP: -> SWE_R4 (eth 0) IP
-Interface eth2 IP: -> Hissit
-
+Interface eth1 IP: 194.154.64.2/24  -> RUS_R2 (eth 2) IP: 194.154.64.1/24
+Interface eth2 IP: 212.75.109.1/24 -> SWE_R4 (eth 1) IP 212.75.109.2/24
+Interface eth3 IP: 212.75.109.3/24 -> HISSI_GW_POL
+-----------------------------------------------------------------------
 SWE_R4
 VYOS
 
-Interface eth0 IP: -> POL_R3 (eth 1)
-Interface eth1 IP: -> FIN_R5 (eth 0)
-Interface eth2 IP: -> Hissit
-
+Interface eth1 IP: 212.75.109.2/24  -> POL_R3 (eth 2) IP: 212.75.109.1/24
+Interface eth2 IP: 213.142.5.141/24 -> FIN_R5 (eth 1) IP: 213.142.5.142/24
+Interface eth3 IP: 213.142.5.143/24 -> HISS_GW_SWE 
+-----------------------------------------------------------------------------
 FIN_R5
 VYOS
 
-Interface eth0 IP: -> SWE_R4 (eth 1)
-Interface eth1 IP: -> FIN_R1 (eth 2)
-Interface eth2 IP: -> Hissit
+Interface eth2 IP: 213.142.5.142/24 -> SWE_R4 (eth 1) IP: 213.142.5.141/24
+Interface eth1 IP: 62.106.6.2/24 -> FIN_R1 (eth 1) IP: 62.106.6.1/24
+Interface eth3 IP: 62.106.6.3/24 -> HISSI_GW_FIN
+---------------------------------------------------------------------------
