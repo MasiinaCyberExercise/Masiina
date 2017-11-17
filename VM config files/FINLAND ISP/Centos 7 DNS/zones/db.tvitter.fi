@@ -1,0 +1,12 @@
+@	IN	SOA	ns.tvitter.fi.	root.tvitter.fi (
+
+				3	;
+				604800	;
+				86400	;
+				2419200	;
+				604800	);
+
+@	IN	NS	ns.tvitter.fi.
+@	IN	A	62.106.7.3
+ns 	IN	A	62.106.7.2
+www	IN 	A 	62.106.7.3

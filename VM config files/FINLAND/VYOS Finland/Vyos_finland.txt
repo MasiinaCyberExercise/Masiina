@@ -1,0 +1,105 @@
+interfaces {
+	ethernet eth0 {
+		address 62.106.5.1/24
+		description LINK-TO-RUS-R2
+		duplex auto
+		hw-id 08:00:27:8f:3c:22
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth1 {
+		address 62.106.4.1/24
+		description MASIINA-WAN
+		duplex auto
+		hw-id 08:00:27:e8:35:f6
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth5 {
+		address 62.106.6.1/24
+		description FIN-ISP
+		duplex auto
+		hw-id 08:00:27:53:13:bb
+		smp_affinity auto
+		speed auto
+	}
+	loopback lo {
+	}
+}
+protocols {
+	ospf {
+		area 0 {
+			network 62.106.5.0/24
+			network 62.106.6.0/24
+		}
+		redistribute {
+			connected {
+				metric-type 2
+			}
+			static {
+				metric-type 2
+			}
+		}
+	}
+}
+service {
+	snmp{
+		community public {
+			authorization ro
+			network 62.106.7.0/24
+		}
+		trap-target 62.106.7.4 {
+			port 161
+		}
+	}
+	ssh {
+		port 22
+	}
+}
+system {
+	config-management{
+		commit-revision 20
+	}
+	host-name FINLAND-R1
+	login {
+		user admin {
+			authentication {
+				encrypted-password ****************
+				plaintext-password ****************
+			}
+			level admin
+		}
+		user vyos {
+			authentication {
+				encrypted-password ****************
+				plaintext-password ****************
+			}
+			level admin
+		}
+	}
+	ntp {
+		server 0.ntp.pool.fi {
+		}
+	}
+	package {
+		auto-sync 1
+		repository community {
+			components main
+			distribution helium
+			password ****************
+			url http://packages.vyos.net/vyos
+			username ""
+		}
+	}
+	syslog {
+		global {
+			facility all {
+				level notice
+			}
+			facility protocols {
+				level debug
+			}
+		}
+	}
+	time-zone Europe/Helsinki
+}

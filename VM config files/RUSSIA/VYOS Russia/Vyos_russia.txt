@@ -1,0 +1,118 @@
+interfaces {
+	ethernet eth0 {
+		address 62.106.5.2/24
+		description TO-POL-R3
+		duplex auto
+		hw-id 08:00:27:6f:34:6f
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth5 {
+		address 192.154.64.1/24
+		duplex auto
+		hw-id 08:00:27:73:5b:37
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth6 {
+		address 194.154.65.1/24
+		description PUBLIC-DHCP
+		duplex auto
+		hw-id 08:00:27:33:0b:8e
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth7 {
+		address 194.154.66.1/24
+		description HISSI-GW-1
+		duplex auto
+		hw-id 08:00:27:37:27:9d
+		smp_affinity auto
+		speed auto
+	}
+	loopback lo {
+	}
+}
+protocols {
+	ospf {
+		area 0 {
+			network 62.106.5.0/24
+			network 194.154.64.0/24
+			network 194.154.65.0/24
+			network 212.75.109.0/24
+		}
+		redistribute {
+			connected {
+				metric-type 2
+			}
+			static {
+				metric-type 2
+			}
+		}
+	}
+}
+service {
+	dhcp-server {
+		shared-network-name PUBLIC-DHCP {
+			authoritative disable
+			subnet 194.154.65.0/24 {
+				default-router 194.154.65.1
+				dns-server 62.106.7.2
+				lease 86400
+				ntp-server 62.106.8.2
+				start 194.154.65.10 {
+					stop 194.154.65.100
+				}
+			}
+		}
+	}
+	ssh {
+		port 22
+	}
+}
+system {
+	config-management{
+		commit-revision 20
+	}
+	host-name RUSSIA-R2
+	login {
+		user vyos {
+			authentication {
+				encrypted-password ****************
+				plaintext-password ****************
+			}
+			level admin
+		}
+	}
+	ntp {
+		server 0.ntp.pool.fi {
+		}
+		server 0.pool.ntp.org {
+		}
+		server 1.pool.ntp.org {
+		}
+		server 2.pool.ntp.org {
+		}
+	}
+	package {
+		auto-sync 1
+		repository community {
+			components main
+			distribution helium
+			password ****************
+			url http://packages.vyos.net/vyos
+			username ""
+		}
+	}
+	syslog {
+		global {
+			facility all {
+				level notice
+			}
+			facility protocols {
+				level debug
+			}
+		}
+	}
+	time-zone UTC
+}

@@ -1,0 +1,135 @@
+interfaces {
+	ethernet eth0 {
+		address 62.106.7.1/24
+		description ISP-SERVICES
+		duplex auto
+		hw-id 08:00:27:b0:74:54
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth5 {
+		address 62.106.6.2/24
+		description LINK-TO-FIN-R1
+		duplex auto
+		hw-id 08:00:27:6d:17:c1
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth6 {
+		address 213.142.5.141/24
+		description TO-SWE-R4
+		duplex auto
+		hw-id 08:00:27:a6:44:17
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth7 {
+		address 62.106.8.1/24
+		description ISP-NTP-HISSIT
+		duplex auto
+		hw-id 08:00:27:0f:99:4a
+		smp_affinity auto
+		speed auto
+	}
+	loopback lo {
+	}
+}
+protocols {
+	ospf {
+		area 0 {
+			network 62.106.6.0/24
+			network 62.106.7.0/24
+			network 62.106.8.0/24
+		}
+		redistribute {
+			connected {
+				metric-type 2
+			}
+			static {
+				metric-type 2
+			}
+		}
+	}
+}
+service {
+	dhcp-server {
+		disable false
+		shared-network-name HISSIT {
+			subnet 62.106.8.0/24 {
+				default-router 62.106.8.1
+				dns-server 62.106.7.2
+				ntp-server 62.106.8.2
+				start 62.106.8.10 {
+					stop 62.106.8.100
+				}
+			}
+		}
+		shared-network-name HISSIT {
+			authoritative disable
+			subnet 62.106.7.0/24 {
+				default-router 62.106.7.1
+				dns-server 62.106.7.2
+				ntp-server 62.106.8.2
+				start 62.106.7.10 {
+					stop 62.106.7.20
+				}
+			}
+		}
+	}
+	snmp{
+		community public {
+			authorization ro
+			network 62.106.7.0/24
+		}
+		trap-target 62.106.7.4 {
+			port 161
+		}
+	}
+	ssh {
+		port 22
+	}
+}
+system {
+	config-management{
+		commit-revision 20
+	}
+	host-name FINLAND-ISP
+	login {
+		user vyos {
+			authentication {
+				encrypted-password ****************
+				plaintext-password ****************
+			}
+			level admin
+		}
+	}
+	ntp {
+		server 0.pool.ntp.org {
+		}
+		server 1.pool.ntp.org {
+		}
+		server 2.pool.ntp.org {
+		}
+	}
+	package {
+		auto-sync 1
+		repository community {
+			components main
+			distribution helium
+			password ****************
+			url http://packages.vyos.net/vyos
+			username ""
+		}
+	}
+	syslog {
+		global {
+			facility all {
+				level notice
+			}
+			facility protocols {
+				level debug
+			}
+		}
+	}
+	time-zone Europe/Helsinki
+}

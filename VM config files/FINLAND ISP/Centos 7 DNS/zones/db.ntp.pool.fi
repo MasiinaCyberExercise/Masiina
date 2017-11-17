@@ -1,0 +1,15 @@
+@	IN	SOA	ns1.ntp.pool.fi.	root.ntp.pool.fi. (
+
+				3	;
+				604800	;
+				86400	;
+				2419200	;
+				604800	);
+
+;name-servers
+	IN	NS	ns1.ntp.pool.fi.
+
+ns1.ntp.pool.fi.	IN	A	62.106.7.2
+@			IN 	A 	62.106.8.2
+0			IN	A	62.106.8.2
+

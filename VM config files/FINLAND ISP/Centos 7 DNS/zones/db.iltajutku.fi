@@ -1,0 +1,15 @@
+@	IN	SOA	ns1.iltajutku.fi.	root.iltajutku.fi. (
+
+				3	;
+				604800	;
+				86400	;
+				2419200	;
+				604800	);
+
+;name-servers
+	IN	NS	ns1.iltajutku.fi.
+
+ns1.iltajutku.fi.	IN	A	62.106.7.2
+@			IN 	A 	62.106.7.3
+www			IN 	A	62.106.7.3
+

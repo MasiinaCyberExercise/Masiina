@@ -1,0 +1,54 @@
+interfaces {
+	ethernet eth0 {
+		address 213.142.5.142/24
+		duplex auto
+		hw-id 08:00:27:41:f9:eb
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth1 {
+		address 212.75.109.2/24
+		duplex auto
+		hw-id 08:00:27:45:31:59
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth2 {
+		address 212.75.110.1/24
+		hw-id 08:00:27:a4:76:e8
+	}
+}
+protocols {
+	ospf {
+		area 0 {
+			network 212.75.109.0/24
+			network 213.142.5.0/24
+		}
+		redistribute {
+			connected {
+				metric-type 2
+			}
+			static {
+				metric-type 2
+			}
+		}
+	}
+}
+service {
+	dhcp-server {
+		shared-network-name HISSIT {
+			subnet 212.75.110.0/24 {
+				default-router 212.75.110.1
+				dns-server 62.106.7.2
+				ntp-server 62.106.8.2
+				start 212.75.110.10 {
+					stop 212.75.110.100
+				}
+			}
+		}
+	}
+}
+system {
+	host-name SWE-R4
+	time-zone UTC
+}

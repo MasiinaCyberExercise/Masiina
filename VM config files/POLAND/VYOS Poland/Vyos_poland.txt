@@ -1,0 +1,105 @@
+interfaces {
+	ethernet eth0 {
+		address 194.154.64.2/24
+		description TO-RUS-R2
+		duplex auto
+		hw-id 08:00:27:52:d3:94
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth1 {
+		address 212.75.109.1/24
+		description TO-SWE-R4
+		duplex auto
+		hw-id 08:00:27:b1:12:8c
+		smp_affinity auto
+		speed auto
+	}
+	ethernet eth2 {
+		address 212.75.108.1/24
+		description FIN-ISP
+		duplex auto
+		hw-id 08:00:27:22:f2:9c
+		smp_affinity auto
+		speed auto
+	}
+	loopback lo {
+	}
+}
+protocols {
+	ospf {
+		area 0 {
+			network 194.154.64.0/24
+			network 212.75.109.0/24
+			network 194.154.65.0/24
+			network 194.154.66.0/24
+		}
+		redistribute {
+			connected {
+				metric-type 2
+			}
+			static {
+				metric-type 2
+			}
+		}
+	}
+}
+service {
+	dhcp-server {
+		shared-network-name HISSIT {
+			subnet 212.75.108.0/24 {
+				default-router 212.75.108.1
+				dns-server 62.106.7.2
+				lease 86400
+				ntp-server 62.106.8.2
+				start 212.75.108.10 {
+					stop 212.75.108.100
+				}
+			}
+		}
+	}
+}
+system {
+	config-management{
+		commit-revision 20
+	}
+	host-name POLAND-R3
+	login {
+		user vyos {
+			authentication {
+				encrypted-password ****************
+				plaintext-password ****************
+			}
+			level admin
+		}
+	}
+	ntp {
+		server 0.pool.ntp.org {
+		}
+		server 1.pool.ntp.org{
+		}
+		server 2.pool.ntp.org{
+		}
+	}
+	package {
+		auto-sync 1
+		repository community {
+			components main
+			distribution helium
+			password ****************
+			url http://packages.vyos.net/vyos
+			username ""
+		}
+	}
+	syslog {
+		global {
+			facility all {
+				level notice
+			}
+			facility protocols {
+				level debug
+			}
+		}
+	}
+	time-zone UTC
+}

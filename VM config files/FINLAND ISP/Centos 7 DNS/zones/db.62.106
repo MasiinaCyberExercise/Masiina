@@ -1,0 +1,16 @@
+@	IN	SOA	ns1.msa.masiina.com. admin.msa.masiina.com (
+			3	;
+			604800	;
+			86400	;
+			2419200	;
+			604800)	;
+
+;NS-records
+
+	IN	NS	ns1.msa.masiina.com.
+
+;PTR-records
+7.2	IN	PTR	ns1.msa.masiina.com.	
+2.6	IN	PTR	host1.msa.masiina.com.	
+2.8	IN	PTR	host2.msa.masiina.com.	
+3.7	IN	PTR	host3.msa.masiina.com.	
