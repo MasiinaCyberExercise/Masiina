@@ -1,0 +1,143 @@
+blueteam2
+8:35 AM
+  
+
+192.168.1.116 mikä osoite?
+8:35 AM
+  
+
+paljon liikennettä
+operaattori
+8:40 AM
+  
+
+Taitaa löytyä teidän omasta verkosta
+blueteam2
+9:32 AM
+  
+
+192.168.1.117 .119 Onko mitä osotteita?
+operaattori
+9:33 AM
+  
+
+Taitaa löytyä teidän omasta verkosta
+9:33 AM
+  
+
+192.168.x.x ovat privaatteja osoitteita eikä niitä reititetä julkisessa verkossa
+blueteam2
+9:36 AM
+  
+
+212.75.110.18 ja 212.75.108.13 onko mitä osotteita?
+operaattori
+9:39 AM
+  
+
+Molemmat ovat Masiina Oyn omistamia ip-osoitteita.
+blueteam2
+9:50 AM
+  
+
+201.75.108.20 ja 194.154.65.17 mitä osotteita?
+operaattori
+9:50 AM
+  
+
+194.154.65.17 Russia Telecom
+9:51 AM
+  
+
+201.75.108.20 Puola Teleteknik
+9:51 AM
+  
+
+Venäjän ja Puolan operaattorin omistamia.
+blueteam2
+10:08 AM
+  
+
+62.106.8.10 mikä osoite?
+iltajutku.fi
+10:09 AM
+  
+
+Masiina Oyn ip-osoite.
+operaattori
+10:10 AM
+  
+
+Iltajutku mitä teet?
+10:10 AM
+  
+
+Masiina Oyn ip-osoite.
+blueteam2
+10:10 AM
+  
+
+212.75.108.20 mikä osoite?
+operaattori
+10:11 AM
+  
+
+Puola Teleteknik edelleen. 
+blueteam2
+10:14 AM
+  
+
+194.154.65.18 mikä osoite?
+operaattori
+10:16 AM
+  
+
+Russia Telecom.
+blueteam2
+10:18 AM
+  
+
+62.106.8.11 mikä osoite?
+operaattori
+10:20 AM
+  
+
+Masiina Oyn ip-osoite.
+blueteam2
+10:23 AM
+  
+
+212.74.108.66 mikä osoite?
+10:24 AM
+  
+
+mikä www.masiina.fi ip-osoite?
+operaattori
+10:25 AM
+  
+
+masiina.com löytyy osoitteesta 62.106.4.2
+10:26 AM
+  
+
+212.74.108.66 Osoiteesta ei ole tietoa
+blueteam2
+10:27 AM
+  
+
+korjaus 212.75.108.66
+operaattori
+10:28 AM
+  
+
+Puola Teleteknik
+samijaffa
+10:29 AM
+  
+
+@blueteam2 puolesta kyselen. Kenen vastuulla on www.masiina.com? (edited)
+operaattori
+10:30 AM
+  
+
+Teidän vastuulla.
