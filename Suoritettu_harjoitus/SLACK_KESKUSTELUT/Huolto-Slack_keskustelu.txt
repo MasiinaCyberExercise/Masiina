@@ -1,130 +1,68 @@
 blueteam2
-9:01 AM
-  
+9:01 AM Puola1 212.75.108.10 Venäjä1 194.154.65.11 yhteys poikki
 
-Puola1 212.75.108.10 Venäjä1 194.154.65.11 yhteys poikki
 huolto
-9:01 AM
-  
+9:01 AM Ahaa! Otetaan käsittelyn asia ja aletaan selvittämään
+9:03 AM Hissi on poistunut käytöstä vikatilanteen takia. Selvitän mistä johtuu ja koitetaan uudestaan.
+9:03 AM hissit*
 
-Ahaa! Otetaan käsittelyn asia ja aletaan selvittämään
-9:03 AM
-  
-
-Hissi on poistunut käytöstä vikatilanteen takia. Selvitän mistä johtuu ja koitetaan uudestaan.
-9:03 AM
-  
-
-hissit*
 blueteam2
-9:06 AM
-  
+9:06 AM Onko arviota milloin hissit takaisin verkossa?
 
-Onko arviota milloin hissit takaisin verkossa?
 huolto
-9:07 AM
-  
+9:07 AM Arviolta 5-10 minuuttia.
 
-Arviolta 5-10 minuuttia.
 blueteam2
-9:14 AM
-  
+9:14 AM Hissien tilanne?
 
-Hissien tilanne?
 huolto
-9:15 AM
-  
+9:15 AM Hetki menee vielä, rane loukkas jalkansa!
+9:16 AM Hissit on taas päällä. Ei löytynyt mitään häiriöitä eli jos niitä tulee uudestaan niin katsellaan tarkemmin.
 
-Hetki menee vielä, rane loukkas jalkansa!
-9:16 AM
-  
-
-Hissit on taas päällä. Ei löytynyt mitään häiriöitä eli jos niitä tulee uudestaan niin katsellaan tarkemmin.
 blueteam2
-9:23 AM
-  
+9:23 AM Puola1 Venäjä1 lämpötila 40 ylipaino 600 onko tarkempaa tietoa mikä ongelma?
 
-Puola1 Venäjä1 lämpötila 40 ylipaino 600 onko tarkempaa tietoa mikä ongelma?
 huolto
-9:23 AM
-  
+9:23 AM Onko vain hetkellisiä?
 
-Onko vain hetkellisiä?
 blueteam2
-9:26 AM
-  
+9:26 AM oli hetkellinen
+9:28 AM Oliko lisätietoa?
 
-oli hetkellinen
-9:28 AM
-  
-
-Oliko lisätietoa?
 huolto
-9:28 AM
-  
+9:28 AM Hississä on voinut olla vain ylipainoinen henkilö.
 
-Hississä on voinut olla vain ylipainoinen henkilö.
 blueteam2
-9:37 AM
-  
+9:37 AM Puola1 ja venäjä1 hisseissä taas ongelmia. Onko tarkempaa tietoa?
 
-Puola1 ja venäjä1 hisseissä taas ongelmia. Onko tarkempaa tietoa?
 huolto
-9:37 AM
-  
+9:37 AM Kaikki näyttää normaalilta täältä katsottuna.
+9:41 AM Hissit toimivat normaalisti
 
-Kaikki näyttää normaalilta täältä katsottuna.
-9:41 AM
-  
-
-Hissit toimivat normaalisti
-New Messages
 huolto
-10:29 AM
-  
+10:29 AM hei minkätakia ssh ei toimi?
+10:29 AM mitä ootte menny tekemään??
 
-hei minkätakia ssh ei toimi?
-10:29 AM
-  
-
-mitä ootte menny tekemään??
 blueteam2
-10:30 AM
-  
+10:30 AM Mitä ip-osoitetta käytätte?
 
-Mitä ip-osoitetta käytätte?
 huolto
-10:31 AM
-  
+10:31 AM miten se katotaan
 
-miten se katotaan
 blueteam2
-10:31 AM
-  
+10:31 AM terminaaliin ifconfig
 
-terminaaliin ifconfig
 huolto
-10:31 AM
-  
+10:31 AM ei tää toimi
 
-ei tää toimi
 blueteam2
-10:32 AM
-  
+10:32 AM ip addr terminaaliin
 
-ip addr terminaaliin
 huolto
-10:32 AM
-  
+10:32 AM ei sekä
 
-ei sekä
 blueteam2
-10:32 AM
-  
+10:32 AM mihin te tarviitte ssh yhteyttä?
 
-mihin te tarviitte ssh yhteyttä?
 huolto
-10:34 AM
-  
-
-hissejen huoltoon
+10:34 AM hissejen huoltoon
