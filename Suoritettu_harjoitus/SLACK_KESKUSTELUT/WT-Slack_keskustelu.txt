@@ -1,1137 +1,562 @@
 masiina
-7:31 AM
-  
+7:31 AM mene pois saatana
 
-mene pois saatana
 whiteteam2
-7:43 AM
-  
+7:43 AM morjenttes vaa
 
-morjenttes vaa
 masiina
-8:04 AM
-  
+8:04 AM joni
+8:04 AM yk
 
-joni
-8:04 AM
-  
-
-yk
 whiteteam2
-8:04 AM
-  
+8:04 AM noh
 
-noh
 masiina
-8:04 AM
-  
+8:04 AM jes
+8:04 AM elos
 
-jes
-8:04 AM
-  
-
-elos
 whiteteam2
-8:04 AM
-  
+8:04 AM onks siel paljo väkee
+8:04 AM millo alotetaa perehdyttää
 
-onks siel paljo väkee
-8:04 AM
-  
-
-millo alotetaa perehdyttää
 masiina
-8:04 AM
-  
+8:04 AM mikä kone sul on ?
+8:04 AM ei vielä
 
-mikä kone sul on ?
-8:04 AM
-  
-
-ei vielä
 whiteteam3
-8:04 AM
-  
+8:04 AM tulkaa tänne vua
 
-tulkaa tänne vua
 whiteteam2
-8:05 AM
-  
+8:05 AM isp ws
+8:05 AM meil on tääl 6 red tiimi heppuu jo
+8:05 AM joni tulee sinne 331
 
-isp ws
-8:05 AM
-  
-
-meil on tääl 6 red tiimi heppuu jo
-8:05 AM
-  
-
-joni tulee sinne 331
 masiina
-8:10 AM
-  
+8:10 AM scp countdown.py lubuntu@osoite:/home/lubuntu/
 
-scp countdown.py lubuntu@osoite:/home/lubuntu/
 masiina
-8:17 AM
-  
+8:17 AM Joni  ollaan aloitettu nyt, porukka käy  läpi ihjeita
 
-Joni  ollaan aloitettu nyt, porukka käy  läpi ihjeita
 whiteteam2
-8:19 AM
-  
+8:19 AM joo myö myös
 
-joo myö myös
 masiina
-8:19 AM
-  
+8:19 AM selvä ilmoita kun ootte ready
 
-selvä ilmoita kun ootte ready
 whiteteam2
-8:19 AM
-  
+8:19 AM millo aletaan häksaa
+8:19 AM myö ollaa redi
 
-millo aletaan häksaa
-8:19 AM
-  
-
-myö ollaa redi
 masiina
-8:20 AM
-  
+8:20 AM täällä vielä käydään läpi ja käynnistellään koneet
 
-täällä vielä käydään läpi ja käynnistellään koneet
 whiteteam2
-8:20 AM
-  
+8:20 AM jooh
+8:24 AM joko?
 
-jooh
-8:24 AM
-  
-
-joko?
 masiina
-8:24 AM
-  
+8:24 AM skannatkaa verkot
 
-skannatkaa verkot
 whiteteam2
-8:26 AM
-  
+8:26 AM juu
 
-juu
 whiteteam3
-8:26 AM
-  
+8:26 AM joni sano aina ku ootte yhen stepin tehny nii katellaa sit et millo jatketaa
 
-joni sano aina ku ootte yhen stepin tehny nii katellaa sit et millo jatketaa
 whiteteam2
-8:26 AM
-  
+8:26 AM joo skannattiin
+8:27 AM katotaanko hissien dataa arpspoofil?
 
-joo skannattiin
-8:27 AM
-  
-
-katotaanko hissien dataa arpspoofil?
 masiina
-8:27 AM
-  
+8:27 AM joo
 
-joo
 whiteteam3
-8:28 AM
-  
+8:28 AM muistakaa ipforwardi
 
-muistakaa ipforwardi
 masiina
-8:28 AM
-  
+8:28 AM sen jälkee julkaskaa tviitti
 
-sen jälkee julkaskaa tviitti
 whiteteam2
-8:28 AM
-  
+8:28 AM jea boi
 
-jea boi
 masiina
-8:31 AM
-  
+8:31 AM ukot tykittää
 
-ukot tykittää
 whiteteam2
-8:31 AM
-  
+8:31 AM kunno hyvä
+8:34 AM kuva tulee kohta
 
-kunno hyvä
-8:34 AM
-  
-
-kuva tulee kohta
 masiina
-8:34 AM
-  
+8:34 AM joo
 
-joo
 whiteteam2
-8:37 AM
-  
+8:37 AM heräskö siel jengi tviittii
 
-heräskö siel jengi tviittii
 whiteteam3
-8:39 AM
-  
+8:39 AM ei vielä
 
-ei vielä
 whiteteam2
-8:39 AM
-  
+8:39 AM laitetaanko pois päältä forward
 
-laitetaanko pois päältä forward
 masiina
-8:41 AM
-  
+8:41 AM ei vielä
 
-ei vielä
 whiteteam3
-8:41 AM
-  
+8:41 AM haastattelen eka johtajaa nopee
 
-haastattelen eka johtajaa nopee
 whiteteam2
-8:42 AM
-  
+8:42 AM oge
+8:44 AM sanokaa sit ku jatketaa
 
-oge
-8:44 AM
-  
-
-sanokaa sit ku jatketaa
 masiina
-8:47 AM
-  
+8:47 AM nyt voi jatkaa
 
-nyt voi jatkaa
 whiteteam2
-8:48 AM
-  
+8:48 AM laitetaan ip forward pois päältä
+8:49 AM tehty
 
-laitetaan ip forward pois päältä
-8:49 AM
-  
-
-tehty
 iltajutku.fi
-8:50 AM
-  
+8:50 AM joo huomattu
 
-joo huomattu
 whiteteam2
-8:51 AM
-  
+8:51 AM ootellaan
 
-ootellaan
 masiina
-8:52 AM
-  
+8:52 AM ei oo viä tullu infoo että käykää korjaa hissit
 
-ei oo viä tullu infoo että käykää korjaa hissit
 iltajutku.fi
-8:53 AM
-  
+8:53 AM ootellaan
 
-ootellaan
 whiteteam2
-8:54 AM
-  
+8:54 AM ootellaan
+8:56 AM hiffaako noi bt:t tota huoltokanavaa
 
-ootellaan
-8:56 AM
-  
-
-hiffaako noi bt:t tota huoltokanavaa
 iltajutku.fi
-8:56 AM
-  
+8:56 AM joo ootellaa
+8:57 AM laitto tiketin just
 
-joo ootellaa
-8:57 AM
-  
-
-laitto tiketin just
 whiteteam2
-8:58 AM
-  
+8:58 AM juu
 
-juu
 masiina
-8:58 AM
-  
+8:58 AM ei vielä oo
 
-ei vielä oo
 whiteteam2
-8:59 AM
-  
+8:59 AM lukeeko bt tota tvitteriä aktiivisesti?
+9:00 AM näkee hienot kyrilliset koodit
 
-lukeeko bt tota tvitteriä aktiivisesti?
-9:00 AM
-  
-
-näkee hienot kyrilliset koodit
 masiina
-9:00 AM
-  
+9:00 AM ei ne tällä hetkellä lue
 
-ei ne tällä hetkellä lue
 whiteteam2
-9:00 AM
-  
+9:00 AM koha välillä vilkuilee
 
-koha välillä vilkuilee
 masiina
-9:01 AM
-  
+9:01 AM se näkyy tos tykillä
+9:01 AM päivitetään sitä välillä
+9:01 AM jos ne ei ite tjaua
+9:01 AM tajua
 
-se näkyy tos tykillä
-9:01 AM
-  
-
-päivitetään sitä välillä
-9:01 AM
-  
-
-jos ne ei ite tjaua
-9:01 AM
-  
-
-tajua
 whiteteam2
-9:01 AM
-  
+9:01 AM karo sano tos tunnin alus et red tiimin pitää miettii mitä jälkii jättää, sit mietittii eile et lähetetää feikkidataan ei arpspoofattuna, jotta ne siel osais vertailla iparii
+9:01 AM nii arpspoofataanko feikkidata sit vai ei 
 
-karo sano tos tunnin alus et red tiimin pitää miettii mitä jälkii jättää, sit mietittii eile et lähetetää feikkidataan ei arpspoofattuna, jotta ne siel osais vertailla iparii
-9:01 AM
-  
-
-nii arpspoofataanko feikkidata sit vai ei 
 iltajutku.fi
-9:04 AM
-  
+9:04 AM kymmenen minuutin päästä masiina antaa lausunnon tosta miks hissi ei toimi venäjällä
+9:04 AM jatketaa sitte eteenpäin
 
-kymmenen minuutin päästä masiina antaa lausunnon tosta miks hissi ei toimi venäjällä
-9:04 AM
-  
-
-jatketaa sitte eteenpäin
 whiteteam2
-9:04 AM
-  
+9:04 AM jea boi
 
-jea boi
 iltajutku.fi
-9:05 AM
-  
+9:05 AM arpspoofi pois enneku lähetätte sitä feikkidataa
 
-arpspoofi pois enneku lähetätte sitä feikkidataa
 whiteteam2
-9:05 AM
-  
+9:05 AM joo
 
-joo
 iltajutku.fi
-9:05 AM
-  
+9:05 AM semmoi et rus1 ja pol1 tulee myös hisseistä ja myös teiltä
 
-semmoi et rus1 ja pol1 tulee myös hisseistä ja myös teiltä
 whiteteam2
-9:06 AM
-  
+9:06 AM laitetaanko eka ihan legit dataa omista skripteistä ettei mee error logeihi?
 
-laitetaanko eka ihan legit dataa omista skripteistä ettei mee error logeihi?
 iltajutku.fi
-9:06 AM
-  
+9:06 AM joo ja semmoi maltillisesti
 
-joo ja semmoi maltillisesti
 whiteteam2
-9:13 AM
-  
+9:13 AM joko kohta ruvetaan hommiin
 
-joko kohta ruvetaan hommiin
 iltajutku.fi
-9:13 AM
-  
+9:13 AM nyt on lausuntoa tullu
+9:13 AM eli redteam voi sen lukassa ja toimia sit taas suunnitelman mukaa kohta
+9:14 AM sano sit ku arpspooffi on pois
+9:14 AM nii laitetaa hissit takas
 
-nyt on lausuntoa tullu
-9:13 AM
-  
-
-eli redteam voi sen lukassa ja toimia sit taas suunnitelman mukaa kohta
-9:14 AM
-  
-
-sano sit ku arpspooffi on pois
-9:14 AM
-  
-
-nii laitetaa hissit takas
 whiteteam2
-9:14 AM
-  
+9:14 AM laitetaanko heti?
 
-laitetaanko heti?
 iltajutku.fi
-9:15 AM
-  
+9:15 AM spooffi pois
+9:15 AM onko
 
-spooffi pois
-9:15 AM
-  
-
-onko
 whiteteam2
-9:15 AM
-  
+9:15 AM on
 
-on
 iltajutku.fi
-9:15 AM
-  
+9:15 AM älkää vielä edetkö
 
-älkää vielä edetkö
 whiteteam2
-9:15 AM
-  
+9:15 AM otettii se spooffi pois
 
-otettii se spooffi pois
 iltajutku.fi
-9:15 AM
-  
+9:15 AM katotaa et tuo tiimi huomaa sen et hissit on takas
+9:15 AM joo ootelkaa siinä hetki
 
-katotaa et tuo tiimi huomaa sen et hissit on takas
-9:15 AM
-  
-
-joo ootelkaa siinä hetki
 whiteteam2
-9:15 AM
-  
+9:15 AM joo
+9:15 AM sano sit
 
-joo
-9:15 AM
-  
-
-sano sit
 iltajutku.fi
-9:22 AM
-  
+9:22 AM joo voi ruveta hiljaksee laittaa iha normaalia dataa
+9:22 AM katotaa mite reagoi
 
-joo voi ruveta hiljaksee laittaa iha normaalia dataa
-9:22 AM
-  
-
-katotaa mite reagoi
 whiteteam2
-9:22 AM
-  
+9:22 AM joo aletaan laittaa
+9:25 AM tulee
 
-joo aletaan laittaa
-9:25 AM
-  
-
-tulee
 iltajutku.fi
-9:25 AM
-  
+9:25 AM ootetaa sit et mite ne reagoi enneku laitetaa jytympiä
 
-ootetaa sit et mite ne reagoi enneku laitetaa jytympiä
 whiteteam2
-9:25 AM
-  
+9:25 AM joo
 
-joo
 iltajutku.fi
-9:25 AM
-  
+9:25 AM hyvä nyt näkyy 2 hhissiä russiasta kaikki ok! 
 
-hyvä nyt näkyy 2 hhissiä russiasta kaikki ok! 
 whiteteam2
-9:25 AM
-  
+9:25 AM jos ne ei reagoi nii sitte jytympää 
 
-jos ne ei reagoi nii sitte jytympää 
 iltajutku.fi
-9:25 AM
-  
+9:25 AM ei vielä
+9:25 AM ei oo kiire
+9:25 AM rauhassa
 
-ei vielä
-9:25 AM
-  
-
-ei oo kiire
-9:25 AM
-  
-
-rauhassa
 whiteteam2
-9:25 AM
-  
+9:25 AM jooh
+9:26 AM tuleeks polandista kans kaks
 
-jooh
-9:26 AM
-  
-
-tuleeks polandista kans kaks
 iltajutku.fi
-9:26 AM
-  
+9:26 AM joo
+9:26 AM check
 
-joo
-9:26 AM
-  
-
-check
 whiteteam2
-9:26 AM
-  
+9:26 AM jea
 
-jea
 iltajutku.fi
-9:29 AM
-  
+9:29 AM laita maltillisesti ylipainoo esim 
 
-laita maltillisesti ylipainoo esim 
 whiteteam2
-9:29 AM
-  
+9:29 AM ilmotan ku on päällä
 
-ilmotan ku on päällä
 iltajutku.fi
-9:30 AM
-  
+9:30 AM joo voi mennä 10 sec välein
 
-joo voi mennä 10 sec välein
 whiteteam2
-9:31 AM
-  
+9:31 AM päällä
 
-päällä
 iltajutku.fi
-9:31 AM
-  
+9:31 AM juu
 
-juu
 whiteteam2
-9:32 AM
-  
+9:32 AM onks siel kirjotettu arviointii viel mittää?  :
 
-onks siel kirjotettu arviointii viel mittää?  :
 iltajutku.fi
-9:33 AM
-  
+9:33 AM ei oo kerenny  mut ollaa tehty havaintoja hienosti
+9:34 AM nyt rupee menee tikettiä
+9:34 AM ootellaa
 
-ei oo kerenny  mut ollaa tehty havaintoja hienosti
-9:34 AM
-  
-
-nyt rupee menee tikettiä
-9:34 AM
-  
-
-ootellaa
 whiteteam2
-9:34 AM
-  
+9:34 AM laitetaanko koht jotain häröö viestii 1 sec viiveel
 
-laitetaanko koht jotain häröö viestii 1 sec viiveel
 iltajutku.fi
-9:35 AM
-  
+9:35 AM ei vielä
+9:35 AM ootetaa tiketti ja katotaa mitä palomuurijannut tekee
+9:35 AM ei oo ainakaa vielä tajunnu kattoo iptä 
 
-ei vielä
-9:35 AM
-  
-
-ootetaa tiketti ja katotaa mitä palomuurijannut tekee
-9:35 AM
-  
-
-ei oo ainakaa vielä tajunnu kattoo iptä 
 whiteteam2
 9:36 AM
-  
+9:37 AM vaihdeltii vähä lukuja skripteissä
 
-9:37 AM
-  
-
-vaihdeltii vähä lukuja skripteissä
 iltajutku.fi
-9:38 AM
-  
+9:38 AM joo ne huomas ja kysy huollolta
+9:38 AM katotaa huomaaks ne sitä iptä
+9:38 AM ootellaa
 
-joo ne huomas ja kysy huollolta
-9:38 AM
-  
-
-katotaa huomaaks ne sitä iptä
-9:38 AM
-  
-
-ootellaa
 whiteteam2
-9:38 AM
-  
+9:38 AM joo
 
-joo
 iltajutku.fi
-9:46 AM
-  
+9:46 AM ipt huomattu
+9:46 AM ootetaa et ne blockaa ne ja sit vaihatte ipt ja laitatte kovemmalla tahilla
+9:47 AM eiku laittakaa vaa nyt heti nopeemmalla tahilla
+9:47 AM vaik 2 sec
+9:47 AM ootetaa et ne blockaa ne
+9:47 AM ipt
 
-ipt huomattu
-9:46 AM
-  
-
-ootetaa et ne blockaa ne ja sit vaihatte ipt ja laitatte kovemmalla tahilla
-9:47 AM
-  
-
-eiku laittakaa vaa nyt heti nopeemmalla tahilla
-9:47 AM
-  
-
-vaik 2 sec
-9:47 AM
-  
-
-ootetaa et ne blockaa ne
-9:47 AM
-  
-
-ipt
 whiteteam2
-9:47 AM
-  
+9:47 AM laitetaanko meemejä
 
-laitetaanko meemejä
 iltajutku.fi
-9:47 AM
-  
+9:47 AM ei
 
-ei
 whiteteam2
-9:47 AM
-  
+9:47 AM hö
 
-hö
 iltajutku.fi
-9:47 AM
-  
+9:47 AM tota oikeeta dataa vaa mikä ylittää rajat
 
-tota oikeeta dataa vaa mikä ylittää rajat
 whiteteam2
-9:47 AM
-  
+9:47 AM joo sanon ku on 
 
-joo sanon ku on 
 iltajutku.fi
-9:47 AM
-  
+9:47 AM ootetaa et ne blockaa ne ipt
+9:47 AM siis laittakaa vaa, ne rupes nyt selvittää
+9:48 AM hei
+9:48 AM piti olla joku roti
 
-ootetaa et ne blockaa ne ipt
-9:47 AM
-  
-
-siis laittakaa vaa, ne rupes nyt selvittää
-9:48 AM
-  
-
-hei
-9:48 AM
-  
-
-piti olla joku roti
 whiteteam2
-9:49 AM
-  
+9:49 AM noh ainakii huomaa
 
-noh ainakii huomaa
 iltajutku.fi
-9:49 AM
-  
+9:49 AM ota hetkeks vaik pois
+9:49 AM taino iha sama anna olla
 
-ota hetkeks vaik pois
-9:49 AM
-  
-
-taino iha sama anna olla
 whiteteam2
-9:50 AM
-  
+9:50 AM voiko lisätä vähä tekstiä?
+9:50 AM red tiimi on levoton ja vaatii meemejä
 
-voiko lisätä vähä tekstiä?
-9:50 AM
-  
-
-red tiimi on levoton ja vaatii meemejä
 iltajutku.fi
-9:51 AM
-  
+9:51 AM ootetaa et ne blockaa ja sit vaihatte iparit ja lyötte meemejä 
 
-ootetaa et ne blockaa ja sit vaihatte iparit ja lyötte meemejä 
 whiteteam2
-9:52 AM
-  
+9:52 AM okei  
 
-okei  
 iltajutku.fi
-9:55 AM
-  
+9:55 AM onks teil se comm skripti päällä
 
-onks teil se comm skripti päällä
 whiteteam2
-9:56 AM
-  
+9:56 AM ei
 
-ei
 iltajutku.fi
-9:56 AM
-  
+9:56 AM mistä tiiätte et millo ne blockaa
 
-mistä tiiätte et millo ne blockaa
 whiteteam2
-9:57 AM
-  
+9:57 AM eiks se scripti kuse ku socket ei saa yhteyttä
+9:57 AM laitetaan päälle silti
 
-eiks se scripti kuse ku socket ei saa yhteyttä
-9:57 AM
-  
-
-laitetaan päälle silti
 masiina
-9:57 AM
-  
-
-toimihan se viimekski
-whiteteam2
-9:58 AM
-  
-
-joo laitetaan commi
-9:58 AM
-  
-
-eiku conni
-9:58 AM
-  
-
-mie en ossoo tätä hassuu kieltä
-iltajutku.fi
-9:58 AM
-  
-
-kyä
-9:58 AM
-  
-
-eli toine pitäis olla blockattuna nyt eikö
-9:58 AM
-  
-
-lyökää puolallaki vähä tulta nii ne blockaa senki
-whiteteam2
-9:59 AM
-  
-
-joo
-9:59 AM
-  
-
-vaihetaa russia ip ja laitetaa meemei
-iltajutku.fi
-9:59 AM
-  
-
-älkää vielä
-9:59 AM
-  
-
-ootetaa et ne blockaa molemmat ja laittakaa sit samaa aikaa shaibaa
-whiteteam2
-10:00 AM
-  
-
-joo
-iltajutku.fi
-10:01 AM
-  
-
-onks molemmat blockattu
-10:01 AM
-  
-
-ei näköjää 
-whiteteam2
-10:01 AM
-  
-
-10:04 AM
-  
-
-sitte ku puola blockattu ni aletaako dossaa?
-iltajutku.fi
-10:04 AM
-  
-
-joo vaihtakaa iparit ja dossatkaa sit mut ei vielä
-whiteteam2
-10:04 AM
-  
-
-joo
-iltajutku.fi
-10:06 AM
-  
-
-laittakaa puolaa vähä kovemmal tahilla ku ne ei tajuu blockata sitä
-10:07 AM
-  
-
-tai ootas
-10:08 AM
-  
-
-laittakaa venältä slowloris ja puolasta vaik vähä kovemmal tahilla dadaa
-10:08 AM
-  
-
-ei noi blockaa tota puolaa
-whiteteam2
-10:09 AM
-  
-
-enemmä ku äitis ei ollu tarpeeks
-iltajutku.fi
-10:09 AM
-  
+9:57 AM toimihan se viimekski
 
 whiteteam2
-10:09 AM
-  
+9:58 AM joo laitetaan commi
+9:58 AM eiku conni
+9:58 AM mie en ossoo tätä hassuu kieltä
 
 iltajutku.fi
-10:10 AM
-  
+9:58 AM kyä
+9:58 AM eli toine pitäis olla blockattuna nyt eikö
+9:58 AM lyökää puolallaki vähä tulta nii ne blockaa senki
 
-sit slowlorista venäjältä
 whiteteam2
-10:10 AM
-  
+9:59 AM joo
+9:59 AM vaihetaa russia ip ja laitetaa meemei
 
-pitäs olla tulilla
-10:11 AM
-  
-
-ja onkin
-10:11 AM
-  
-
-conn.py valittaa errorii 
 iltajutku.fi
-10:11 AM
-  
+9:59 AM älkää vielä
+9:59 AM ootetaa et ne blockaa molemmat ja laittakaa sit samaa aikaa shaibaa
 
-nyt slowloris toimii
 whiteteam2
-10:11 AM
-  
+10:00 AM joo
 
-joo
 iltajutku.fi
-10:12 AM
-  
+10:01 AM onks molemmat blockattu
+10:01 AM ei näköjää 
 
-laittakaa pois ku ei toimi mistkää sivut
-10:12 AM
-  
-
-mitä dossaatte?
-10:12 AM
-  
-
-puola blockattu
 whiteteam2
-10:12 AM
-  
+10:01 AM 
+10:04 AM sitte ku puola blockattu ni aletaako dossaa?
 
-laitettii pois slowloris
-10:12 AM
-  
-
-ddossattii 4.2:st
 iltajutku.fi
-10:14 AM
-  
+10:04 AM joo vaihtakaa iparit ja dossatkaa sit mut ei vielä
 
-laittakaa vaa slowloris
 whiteteam2
-10:15 AM
-  
+10:04 AM joo
 
-molemmista?
 iltajutku.fi
-10:15 AM
-  
+10:06 AM laittakaa puolaa vähä kovemmal tahilla ku ne ei tajuu blockata sitä
+10:07 AM tai ootas
+10:08 AM laittakaa venältä slowloris ja puolasta vaik vähä kovemmal tahilla dadaa
+10:08 AM ei noi blockaa tota puolaa
 
-toisesta vaa
 whiteteam2
-10:17 AM
-  
+10:09 AM enemmä ku äitis ei ollu tarpeeks
 
-päällä puolasta
 iltajutku.fi
-10:18 AM
-  
+10:09 AM whiteteam2
+10:09 AM iltajutku.fi
+10:10 AM sit slowlorista venäjältä
 
-näyttäis toimivan
+whiteteam2
+10:10 AM pitäs olla tulilla
+10:11 AM ja onkin
+10:11 AM conn.py valittaa errorii 
+
+iltajutku.fi
+10:11 AM nyt slowloris toimii
+
+whiteteam2
+10:11 AM joo
+
+iltajutku.fi
+10:12 AM laittakaa pois ku ei toimi mistkää sivut
+10:12 AM mitä dossaatte?
+10:12 AM puola blockattu
+
+whiteteam2
+10:12 AM laitettii pois slowloris
+10:12 AM ddossattii 4.2:st
+
+iltajutku.fi
+10:14 AM laittakaa vaa slowloris
+
+whiteteam2
+10:15 AM molemmista?
+
+iltajutku.fi
+10:15 AM toisesta vaa
+
+whiteteam2
+10:17 AM päällä puolasta
+
+iltajutku.fi
+10:18 AM näyttäis toimivan
+
 masiina
-10:21 AM
-  
+10:21 AM rt1 laitettu sisäverkkoon
 
-rt1 laitettu sisäverkkoon
 iltajutku.fi
-10:21 AM
-  
+10:21 AM joni huomio 
 
-joni huomio 
 masiina
-10:21 AM
-  
+10:21 AM on jo
 
-on jo
 whiteteam2
-10:21 AM
-  
+10:21 AM eiks se oo venäjä?
 
-eiks se oo venäjä?
 iltajutku.fi
-10:21 AM
-  
+10:21 AM joo
 
-joo
 masiina
-10:21 AM
-  
+10:21 AM joo
 
-joo
 iltajutku.fi
-10:21 AM
-  
+10:21 AM DHCP päällee
 
-DHCP päällee
 whiteteam2
-10:21 AM
-  
+10:21 AM vai puola?
 
-vai puola?
 iltajutku.fi
-10:22 AM
-  
+10:22 AM venäjä
 
-venäjä
 masiina
-10:22 AM
-  
+10:22 AM scp countdown.py lubuntu@osoite:/home/lubuntu/
+10:22 AM löytyy Download kansion alta
 
-scp countdown.py lubuntu@osoite:/home/lubuntu/
-10:22 AM
-  
-
-löytyy Download kansion alta
 whiteteam2
-10:22 AM
-  
+10:22 AM joo tääl on vähä hämminkiä
+10:22 AM venatkaas
 
-joo tääl on vähä hämminkiä
-10:22 AM
-  
-
-venatkaas
 masiina
-10:22 AM
-  
+10:22 AM 192.168.2.20 
+10:22 AM on osote
 
-192.168.2.20 
-10:22 AM
-  
-
-on osote
 iltajutku.fi
-10:23 AM
-  
+10:23 AM joo ei hätää
 
-joo ei hätää
 whiteteam2
-10:23 AM
-  
+10:23 AM mennäänkö ssh:lla sisää
 
-mennäänkö ssh:lla sisää
 masiina
-10:23 AM
-  
+10:23 AM älä koske skriptii
+10:23 AM ssh osotteeseen eka
+10:23 AM scp:llä siirretään tiedosto
 
-älä koske skriptii
-10:23 AM
-  
-
-ssh osotteeseen eka
-10:23 AM
-  
-
-scp:llä siirretään tiedosto
 whiteteam2
-10:23 AM
-  
+10:23 AM joo
+10:23 AM saako toimia
 
-joo
-10:23 AM
-  
-
-saako toimia
 masiina
-10:24 AM
-  
+10:24 AM hetki
 
-hetki
 iltajutku.fi
-10:24 AM
-  
+10:24 AM laittakaa se slowloriski tulille 
 
-laittakaa se slowloriski tulille 
 masiina
-10:24 AM
-  
+10:24 AM refreshhakkka netti
 
-refreshhakkka netti
 iltajutku.fi
-10:24 AM
-  
+10:24 AM joni värä ip
+10:24 AM tarkista oma ip kali russia 192.168.1.x ja kohde 192.168.2.20
 
-joni värä ip
-10:24 AM
-  
-
-tarkista oma ip kali russia 192.168.1.x ja kohde 192.168.2.20
 whiteteam2
-10:25 AM
-  
+10:25 AM kali russia oikees iparis
 
-kali russia oikees iparis
 masiina
-10:25 AM
-  
+10:25 AM ssh lubuntu@192.168.2.20
+10:26 AM sit toinen komento rivi scp countdown.py lubuntu@192.168.2.20:/home/lubuntu/
+10:26 AM sit ssh yhteydellä olevalla komentorivillä python countdown.py
 
-ssh lubuntu@192.168.2.20
-10:26 AM
-  
-
-sit toinen komento rivi scp countdown.py lubuntu@192.168.2.20:/home/lubuntu/
-10:26 AM
-  
-
-sit ssh yhteydellä olevalla komentorivillä python countdown.py
 whiteteam2
-10:26 AM
-  
+10:26 AM juuh
+10:26 AM sanokaa ku toimitaa
 
-juuh
-10:26 AM
-  
-
-sanokaa ku toimitaa
 masiina
-10:27 AM
-  
+10:27 AM joo
+10:27 AM nyt saa
+10:28 AM root66
 
-joo
-10:27 AM
-  
-
-nyt saa
-10:28 AM
-  
-
-root66
 whiteteam2
-10:28 AM
-  
+10:28 AM ne blokkas sen ssh
+10:28 AM permission denied
 
-ne blokkas sen ssh
-10:28 AM
-  
-
-permission denied
 masiina
-10:31 AM
-  
+10:31 AM käyttäkää 2.10
+10:31 AM sen 2.20 sijasta
 
-käyttäkää 2.10
-10:31 AM
-  
-
-sen 2.20 sijasta
 whiteteam2
-10:31 AM
-  
+10:31 AM joo
 
-joo
 masiina
-10:31 AM
-  
+10:31 AM root / root66
+10:31 AM käyttäjä 
+10:31 AM lubuntun sijasta
+10:31 AM root
 
-root / root66
-10:31 AM
-  
-
-käyttäjä 
-10:31 AM
-  
-
-lubuntun sijasta
-10:31 AM
-  
-
-root
 whiteteam2
-10:32 AM
-  
+10:32 AM toimii
 
-toimii
 masiina
-10:32 AM
-  
+10:32 AM ja sit 2.10:ltä ssh 2.20
 
-ja sit 2.10:ltä ssh 2.20
 whiteteam2
-10:34 AM
-  
+10:34 AM saako laittaa päälle
 
-saako laittaa päälle
 masiina
-10:34 AM
-  
+10:34 AM saa
 
-saa
 iltajutku.fi
-10:36 AM
-  
+10:36 AM tulkee tänne
 
-tulkee tänne
 whiteteam2
-10:36 AM
-  
-
-jooh
-10:36 AM
-  
-
-gg
+10:36 AM jooh
+10:36 AM gg
