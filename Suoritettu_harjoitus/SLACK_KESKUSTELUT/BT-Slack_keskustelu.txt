@@ -1,709 +1,354 @@
 blueteam1
-8:20 AM
+8:20 AM jou
 
-
-jou
 blueteam2
-8:33 AM
-  
+8:33 AM huomenta
 
-huomenta
 blueteam1
-8:34 AM
-  
+8:34 AM kahvitauko?
+8:38 AM sos onks joku huomannu noit uusii tviittei meitä seurataan omg
 
-kahvitauko?
-8:38 AM
-  
-
-sos onks joku huomannu noit uusii tviittei meitä seurataan omg
 blueteam2
-8:39 AM
-  
+8:39 AM Onko venäjä 1 hissi ok?
 
-Onko venäjä 1 hissi ok?
 blueteam1
-8:40 AM
-  
+8:40 AM k
 
-k
 blueteam2
-8:41 AM
-  
+8:41 AM onks sen IP osote mikä?
 
-onks sen IP osote mikä?
 blueteam1
-8:42 AM
-  
+8:42 AM lol omg ollaa iltajutkus käykää lukee
+8:42 AM 194.154.65.11
 
-lol omg ollaa iltajutkus käykää lukee
-8:42 AM
-  
-
-194.154.65.11
 samijaffa
-8:42 AM
-  
+8:42 AM @blueteam2 odotan raporttia
 
-@blueteam2 odotan raporttia
 blueteam1
-8:44 AM
-  
+8:44 AM hei meitä dissataa taas tvitteris
 
-hei meitä dissataa taas tvitteris
 samijaffa
-8:44 AM
-  
+8:44 AM @blueteam2 lehdistö odottaa raporttia, joten tarvitsisin tietoa tapahtumista
 
-@blueteam2 lehdistö odottaa raporttia, joten tarvitsisin tietoa tapahtumista
 blueteam1
-8:44 AM
-  
+8:44 AM sos so rude 
 
-sos so rude 
 blueteam2
-8:46 AM
-  
+8:46 AM onko samassa ip osoitteessa useampi hissi?
 
-onko samassa ip osoitteessa useampi hissi?
 blueteam1
-8:47 AM
-  
+8:47 AM ei
 
-ei
 blueteam2
-8:47 AM
-  
+8:47 AM Mitä porttia käytätte?
 
-Mitä porttia käytätte?
 samijaffa
-8:47 AM
-  
+8:47 AM @blueteam2, väliraportti oltava minulla 8:50
 
-@blueteam2, väliraportti oltava minulla 8:50
 blueteam1
-8:47 AM
-  
+8:47 AM 3402
 
-3402
 samijaffa
-8:49 AM
-  
+8:49 AM @blueteam2 1 min.
 
-@blueteam2 1 min.
 blueteam2
-8:50 AM
-  
+8:50 AM @samijaffa Liikennettä vain sisäverkosta. tällä hetkellä ei näytä että ulkopuolelta olisi päästy järjestelmään
+8:50 AM jatkamme selvitystä
 
-@samijaffa Liikennettä vain sisäverkosta. tällä hetkellä ei näytä että ulkopuolelta olisi päästy järjestelmään
-8:50 AM
-  
-
-jatkamme selvitystä
 samijaffa
-8:51 AM
-  
+8:51 AM @blueteam2, Kiitos tämä riittää tältä erää. Odotan seuraavaa raporttia 9:00
 
-@blueteam2, Kiitos tämä riittää tältä erää. Odotan seuraavaa raporttia 9:00
 blueteam1
-8:52 AM
-  
+8:52 AM tvitterissä sanotaan ettei venäjällä saa hissei
+8:52 AM ei pitkään aikaan liikennettä puolasta tai venäjältä
+8:53 AM siis puola1 venäjä1
 
-tvitterissä sanotaan ettei venäjällä saa hissei
-8:52 AM
-  
-
-ei pitkään aikaan liikennettä puolasta tai venäjältä
-8:53 AM
-  
-
-siis puola1 venäjä1
 blueteam2
-8:53 AM
-  
+8:53 AM tehkää tiketti
+8:54 AM onko 192.168.2.20:8888 meillä käytössä?
 
-tehkää tiketti
-8:54 AM
-  
-
-onko 192.168.2.20:8888 meillä käytössä?
 samijaffa
-8:55 AM
-  
+8:55 AM @blueteam2 odotan kattavaa raporttia
+8:56 AM @blueteam1 @blueteam2 onko verkoissa tapahtunut mitään normaalista poikkeavaa vai onko tvitterissä esitetyt väitteet tuulesta temmattuja?
 
-@blueteam2 odotan kattavaa raporttia
-8:56 AM
-  
-
-@blueteam1 @blueteam2 onko verkoissa tapahtunut mitään normaalista poikkeavaa vai onko tvitterissä esitetyt väitteet tuulesta temmattuja?
 blueteam1
-8:57 AM
-  
+8:57 AM ei ole
+8:58 AM @samijaffa venäjä1 ja puola1 dataa ei tule OMG SOS
 
-ei ole
-8:58 AM
-  
-
-@samijaffa venäjä1 ja puola1 dataa ei tule OMG SOS
 blueteam2
-8:59 AM
-  
+8:59 AM @samijaffa Häkkeröinnistä ei havaitoa. Tällä hetkellä 2 hissiä ei saa yhteyttä.
 
-@samijaffa Häkkeröinnistä ei havaitoa. Tällä hetkellä 2 hissiä ei saa yhteyttä.
 samijaffa
-9:00 AM
-  
+9:00 AM @blueteam2 Mikä on oletettu syy?
 
-@blueteam2 Mikä on oletettu syy?
 blueteam1
-9:01 AM
-  
+9:01 AM taas iltajutkun  otsikoissa #roast
+9:01 AM sos
 
-taas iltajutkun  otsikoissa #roast
-9:01 AM
-  
-
-sos
 blueteam2
-9:01 AM
-  
+9:01 AM selvitämme syytä
+9:01 AM tällä hetkellä ei tietoa
 
-selvitämme syytä
-9:01 AM
-  
-
-tällä hetkellä ei tietoa
 samijaffa
-9:02 AM
-  
+9:02 AM @blueteam1 , @blueteam2 tvitterissä edelleen epäilyttäviä väitteitä. Raporttia välittömästi.
 
-@blueteam1 , @blueteam2 tvitterissä edelleen epäilyttäviä väitteitä. Raporttia välittömästi.
 blueteam1
-9:03 AM
-  
+9:03 AM @samijaffa ei uutta tietoa
 
-@samijaffa ei uutta tietoa
 blueteam2
-9:03 AM
-  
+9:03 AM @samijaffa hissien yhteydenpuute ilmoitettu huollolle
+9:04 AM @samijaffa hissit pois verkosta vikatilanteen vuoksi
 
-@samijaffa hissien yhteydenpuute ilmoitettu huollolle
-9:04 AM
-  
-
-@samijaffa hissit pois verkosta vikatilanteen vuoksi
 samijaffa
-9:04 AM
-  
+9:04 AM @blueteam2 pidän iltajutkulle raportin 9:10. Tähän mennessä oltava kattava lausunto, onko väitteet hakkeroinnista totta, vai onko kyseessä normaali vikatilanne.
 
-@blueteam2 pidän iltajutkulle raportin 9:10. Tähän mennessä oltava kattava lausunto, onko väitteet hakkeroinnista totta, vai onko kyseessä normaali vikatilanne.
 blueteam2
-9:07 AM
-  
+9:07 AM @samijaffa Normaali vikatilanne. Arvio korjaukseen 10 min
 
-@samijaffa Normaali vikatilanne. Arvio korjaukseen 10 min
 samijaffa
-9:07 AM
-  
+9:07 AM Kiitos.
+9:08 AM @blueteam2 ilmoittakaa, jos jotain poikkeavaa ilmenee (muuta kuin normaaleja vikatilanteita)
+9:11 AM @blueteam2 @blueteam1 raportti pidetty. Odotan tänään henkilöstöltä erityistä varovaisuutta sosiaalisessa mediassa. Yrityksen asioista kommentoiminen julkisuuteen kuuluu ainoastaan yrityksen johdolle. -SJ (edited)
+9:12 AM @blueteam2 odotan seuraavaa raporttia 9:20.
 
-Kiitos.
-9:08 AM
-  
-
-@blueteam2 ilmoittakaa, jos jotain poikkeavaa ilmenee (muuta kuin normaaleja vikatilanteita)
-9:11 AM
-  
-
-@blueteam2 @blueteam1 raportti pidetty. Odotan tänään henkilöstöltä erityistä varovaisuutta sosiaalisessa mediassa. Yrityksen asioista kommentoiminen julkisuuteen kuuluu ainoastaan yrityksen johdolle. -SJ (edited)
-9:12 AM
-  
-
-@blueteam2 odotan seuraavaa raporttia 9:20.
 blueteam2
-9:16 AM
-  
+9:16 AM @samijaffa Hissit taas toiminnassa
+9:16 AM @samijaffa tilanne normaali
 
-@samijaffa Hissit taas toiminnassa
-9:16 AM
-  
-
-@samijaffa tilanne normaali
 samijaffa
-9:17 AM
-  
+9:17 AM @blueteam2 Kiitos.
+9:17 AM @blueteam1 @blueteam2 lukekaa tvitteripostaukseni
 
-@blueteam2 Kiitos.
-9:17 AM
-  
-
-@blueteam1 @blueteam2 lukekaa tvitteripostaukseni
 blueteam2
-9:18 AM
-  
+9:18 AM @blueteam1 tiketin voi sulkea
 
-@blueteam1 tiketin voi sulkea
 blueteam1
-9:18 AM
-  
+9:18 AM tikettejä laitettu
 
-tikettejä laitettu
 samijaffa
-9:19 AM
-  
+9:19 AM @blueteam2 1 min.
+9:21 AM @blueteam2 missä raportti?
 
-@blueteam2 1 min.
-9:21 AM
-  
-
-@blueteam2 missä raportti?
 blueteam1
-9:22 AM
-  
+9:22 AM hissivalvonta normaali
+9:23 AM työpaikkakiusaamista havaittu
+9:25 AM @samijaffa työntekijä numero 2 häiriökäyttäytymistä 
 
-hissivalvonta normaali
-9:23 AM
-  
-
-työpaikkakiusaamista havaittu
-9:25 AM
-  
-
-@samijaffa työntekijä numero 2 häiriökäyttäytymistä 
 samijaffa
-9:25 AM
-  
+9:25 AM @blueteam1 @blueteam2 yrityksemme ei hyväksy minkäänlaista syrjintää koskien ikää,sukupuolta,rotua tai seksuaalista suuntautumista. (edited)
+9:27 AM @blueteam1 joko häiriökäyttäytymiseen on puututtu?
+9:28 AM @blueteam2 onko toiminta edelleen normaalia?
 
-@blueteam1 @blueteam2 yrityksemme ei hyväksy minkäänlaista syrjintää koskien ikää,sukupuolta,rotua tai seksuaalista suuntautumista. (edited)
-9:27 AM
-  
-
-@blueteam1 joko häiriökäyttäytymiseen on puututtu?
-9:28 AM
-  
-
-@blueteam2 onko toiminta edelleen normaalia?
 blueteam1
-9:29 AM
-  
+9:29 AM o
 
-o
 blueteam2
-9:30 AM
-  
+9:30 AM on samijaffa
+9:31 AM @blueteam1 @blueteam2 hienoa. Jatkakaa. -SJ
 
-on
-samijaffa
-9:31 AM
-  
-
-@blueteam1 @blueteam2 hienoa. Jatkakaa. -SJ
 blueteam1
-9:31 AM
-  
+9:31 AM @samijaffa onx kahvitauot sallittui?
 
-@samijaffa onx kahvitauot sallittui?
 samijaffa
-9:32 AM
-  
+9:32 AM @blueteam1 ei.
+9:32 AM @blueteam1 @blueteam2 tämän aamun tapahtumien johdosta pidämme seuraavan tauon vasta kello 11:30. -SJ
 
-@blueteam1 ei.
-9:32 AM
-  
-
-@blueteam1 @blueteam2 tämän aamun tapahtumien johdosta pidämme seuraavan tauon vasta kello 11:30. -SJ
 blueteam1
-9:33 AM
-  
+9:33 AM @blueteam2 tikettiä
+9:33 AM @samijaffa en haluu elää enää
 
-@blueteam2 tikettiä
-9:33 AM
-  
-
-@samijaffa en haluu elää enää
 samijaffa
-9:34 AM
-  
+9:34 AM @blueteam1 yrityksellämme on käytössä työterveydenhuolto. Otathan yhteyttä jos tilanne menee epätoivoiseksi.
+9:36 AM @blueteam2 onko toiminta edelleen normaalia?
 
-@blueteam1 yrityksellämme on käytössä työterveydenhuolto. Otathan yhteyttä jos tilanne menee epätoivoiseksi.
-9:36 AM
-  
-
-@blueteam2 onko toiminta edelleen normaalia?
 blueteam2
-9:38 AM
-  
+9:38 AM @samijaffa Hisseissä havaittu ongelmia. Selvitämme tilannetta
 
-@samijaffa Hisseissä havaittu ongelmia. Selvitämme tilannetta
 blueteam1
-9:39 AM
-  
+9:39 AM @blueteam2  tikettiä 
 
-@blueteam2  tikettiä 
 samijaffa
-9:39 AM
-  
+9:39 AM @bluteam2 onko kyse kuinka laajasta ongelmasta?
 
-@bluteam2 onko kyse kuinka laajasta ongelmasta?
 blueteam2
-9:39 AM
-  
+9:39 AM @samijaffa Tällä hetkellä ongelmia puolassa ja venäjällä'
 
-@samijaffa Tällä hetkellä ongelmia puolassa ja venäjällä'
 samijaffa
-9:40 AM
-  
+9:40 AM @blueteam2 vaikuttaako hissien toimintaan? (edited)
+9:40 AM @blueteam2 odotan raporttia.
 
-@blueteam2 vaikuttaako hissien toimintaan? (edited)
-9:40 AM
-  
-
-@blueteam2 odotan raporttia.
 blueteam2
-9:40 AM
-  
+9:40 AM @blueteam1 vaikuttaako toimintaan?
+9:41 AM @samijaffa Huolto ilmoitti että hissit toimivat normaalisti @blueteam1 Mikä teillä tilanne?
 
-@blueteam1 vaikuttaako toimintaan?
-9:41 AM
-  
-
-@samijaffa Huolto ilmoitti että hissit toimivat normaalisti @blueteam1 Mikä teillä tilanne?
 blueteam1
-9:42 AM
-  
+9:42 AM @blueteam2  tulee välillä myös normaaleja toimia mutta jatkuvasti häiriöilmoituksia
+9:47 AM tiketissä lisätietoja
+9:47 AM @blueteam2 
+9:49 AM MAYDAY
 
-@blueteam2  tulee välillä myös normaaleja toimia mutta jatkuvasti häiriöilmoituksia
-blueteam1
-9:47 AM
-  
-
-tiketissä lisätietoja
-9:47 AM
-  
-
-@blueteam2 
-9:49 AM
-  
-
-MAYDAY
 samijaffa
-9:50 AM
-  
+9:50 AM @blueteam2 mikä tilanne?
 
-@blueteam2 mikä tilanne?
 blueteam1
-9:50 AM
-  
+9:50 AM @blueteam2  venäjältä pelkkää punasta ei anna tietoja
+9:53 AM @samijaffa saako työntekijä 1 käydä vessassa 
 
-@blueteam2  venäjältä pelkkää punasta ei anna tietoja
-9:53 AM
-  
-
-@samijaffa saako työntekijä 1 käydä vessassa 
 samijaffa
-9:54 AM
-  
+9:54 AM @blueteam1 kyllä. yksi kerrallaan. (edited)
+9:57 AM @blueteam2 uusiä väitteitä tvitterissä, pitävätkö paikkaansa?
 
-@blueteam1 kyllä. yksi kerrallaan. (edited)
-9:57 AM
-  
-
-@blueteam2 uusiä väitteitä tvitterissä, pitävätkö paikkaansa?
 blueteam1
-9:58 AM
-  
+9:58 AM @blueteam2 tvitterissä huhua ssh auki
+9:58 AM l
 
-@blueteam2 tvitterissä huhua ssh auki
-9:58 AM
-  
-
-l
 blueteam2
-9:58 AM
-  
+9:58 AM @blueteam1 Miltä näyttää valvomossa?
 
-@blueteam1 Miltä näyttää valvomossa?
 samijaffa
-9:58 AM
-  
+9:58 AM @blueteam2 raporttia?
 
-@blueteam2 raporttia?
 blueteam2
-9:59 AM
-  
+9:59 AM @samijaffa voidaanko estää shh ulkoverkosta?
 
-@samijaffa voidaanko estää shh ulkoverkosta?
 blueteam1
-9:59 AM
-  
+9:59 AM @blueteam2 venäjä feikki ip liikenne loppu
 
-@blueteam2 venäjä feikki ip liikenne loppu
 samijaffa
-9:59 AM
-  
+9:59 AM @blueteam2 ssh liikenne samoista Puolan ja Venäjän osoitteista? Vai muualta?
 
-@blueteam2 ssh liikenne samoista Puolan ja Venäjän osoitteista? Vai muualta?
 blueteam2
-10:00 AM
-  
+10:00 AM @samijaffa Kaikkialta
+10:00 AM onko meillä ssh liikenteelle tarvetta
 
-@samijaffa Kaikkialta
-10:00 AM
-  
-
-onko meillä ssh liikenteelle tarvetta
 blueteam1
-10:01 AM
-  
+10:01 AM @blueteam2  myös puola1 feikki ip data loppu tikettiä
 
-@blueteam2  myös puola1 feikki ip data loppu tikettiä
 samijaffa
-10:01 AM
-  
+10:01 AM @blueteam2, vaikuttaako yrityksen normaaliin toimintaan? Jos ei vaikuta, estäkää ssh.
 
-@blueteam2, vaikuttaako yrityksen normaaliin toimintaan? Jos ei vaikuta, estäkää ssh.
 blueteam2
-10:02 AM
-  
+10:02 AM @blueteam1 käytättekö ssh yhteyttä?
 
-@blueteam1 käytättekö ssh yhteyttä?
 blueteam1
-10:02 AM
-  
+10:02 AM @blueteam2 puola1 feikki ip taas data palomuurissa vika kun blokkaus ei toimi?
+10:03 AM @blueti
+10:03 AM ei
 
-@blueteam2 puola1 feikki ip taas data palomuurissa vika kun blokkaus ei toimi?
-10:03 AM
-  
-
-@blueti
-10:03 AM
-  
-
-ei
 blueteam2
-10:04 AM
-  
+10:04 AM @blueteam1 korjaus puolaa ei ole blockattu
+10:04 AM hoidamme asiaa
 
-@blueteam1 korjaus puolaa ei ole blockattu
-10:04 AM
-  
-
-hoidamme asiaa
 blueteam1
-10:04 AM
-  
+10:04 AM @blueteam2 uusi venäjä1 ip 
 
-@blueteam2 uusi venäjä1 ip 
 samijaffa
-10:04 AM
-  
+10:04 AM @blueteam2 onko Venäjän ja Puolan liikenne rajoitettu vai ei?
 
-@blueteam2 onko Venäjän ja Puolan liikenne rajoitettu vai ei?
 blueteam2
-10:05 AM
-  
+10:05 AM @samijaffa venäjän liikenne rajoitettu. puolan liikennettä ollaan rajoittamassa
+10:05 AM @samijaffa ssh liikenne rajoitettu
 
-@samijaffa venäjän liikenne rajoitettu. puolan liikennettä ollaan rajoittamassa
-10:05 AM
-  
-
-@samijaffa ssh liikenne rajoitettu
 blueteam1
-10:06 AM
-  
+10:06 AM keijo huutelee tvitterissä onko hakkeri?
 
-keijo huutelee tvitterissä onko hakkeri?
 samijaffa
-10:07 AM
-  
+10:07 AM @blueteam2 uusia väitteitä tvitterissä, kommentoikaa. (edited)
 
-@blueteam2 uusia väitteitä tvitterissä, kommentoikaa. (edited)
 blueteam1
-10:08 AM
-  
+10:08 AM uudesta venäjä osoitteesta ei enään häiriötä
 
-uudesta venäjä osoitteesta ei enään häiriötä
 samijaffa
-10:09 AM
-  
+10:09 AM @blueteam2 tarvitsen raportin mitkä palvelut ja osoitteet ovat rajoitettuja.
 
-@blueteam2 tarvitsen raportin mitkä palvelut ja osoitteet ovat rajoitettuja.
 blueteam1
-10:10 AM
-  
+10:10 AM tikettiä puola 1 ongelmia
+10:10 AM @blueteam2
 
-tikettiä puola 1 ongelmia
-10:10 AM
-  
-
-@blueteam2
 samijaffa
-10:13 AM
-  
+10:13 AM @blueteam2 raportti? (edited)
+10:14 AM @blueteam1, @blueteam2. Käyn nyt vessassa. Pitäkää toiminta ylhäällä.
 
-@blueteam2 raportti? (edited)
-10:14 AM
-  
-
-@blueteam1, @blueteam2. Käyn nyt vessassa. Pitäkää toiminta ylhäällä.
 blueteam1
-10:15 AM
-  
+10:15 AM @blueteam2 normiliikennettä mutta tod.näk kaapattu kone
 
-@blueteam2 normiliikennettä mutta tod.näk kaapattu kone
 blueteam2
-10:15 AM
-  
+10:15 AM @samijaffa puolan ja venäjän ip osoitteet ja ssh blockattu
+10:16 AM @samijaffa selvitämme lisää
 
-@samijaffa puolan ja venäjän ip osoitteet ja ssh blockattu
-10:16 AM
-  
-
-@samijaffa selvitämme lisää
 samijaffa
-10:17 AM
-  
+10:17 AM @blueteam2 selvä. onko ollut vaikutusta yrityksen normaaliin toimintaan?
 
-@blueteam2 selvä. onko ollut vaikutusta yrityksen normaaliin toimintaan?
 blueteam2
-10:18 AM
-  
+10:18 AM @samijaffa 194.154.65.18 venäjän osoite voimmeko estää?
 
-@samijaffa 194.154.65.18 venäjän osoite voimmeko estää?
 samijaffa
-10:18 AM
-  
+10:18 AM @blueteam2 uusia väitteitä tvitterissä. Ottakaa kantaa verkkosivujen häiriöihin. (edited)
 
-@blueteam2 uusia väitteitä tvitterissä. Ottakaa kantaa verkkosivujen häiriöihin. (edited)
 blueteam2
-10:18 AM
-  
+10:18 AM @samijaffa estoilla ei vaikutusta mutta ongelmia ratkotaan edelleen
 
-@samijaffa estoilla ei vaikutusta mutta ongelmia ratkotaan edelleen
 samijaffa
-10:19 AM
-  
+10:19 AM @blueteam2 www.masiina.com
+10:19 AM @blueteam2 toimii taas.
+10:20 AM @blueteam2 ottakaa verkkosivujen häiriö myös hallintaan.
 
-@blueteam2 www.masiina.com
-10:19 AM
-  
-
-@blueteam2 toimii taas.
-10:20 AM
-  
-
-@blueteam2 ottakaa verkkosivujen häiriö myös hallintaan.
 blueteam2
-10:21 AM
-  
+10:21 AM @samijaffa onko mahdollista saada operaattorilta apua kyberuhkaan?
 
-@samijaffa onko mahdollista saada operaattorilta apua kyberuhkaan?
 blueteam1
-10:21 AM
-  
+10:21 AM serverissä edelleen häiriöitä
+10:23 AM serverin toiminta palautuu
 
-serverissä edelleen häiriöitä
-New Messages
-10:23 AM
-  
-
-serverin toiminta palautuu
 samijaffa
-10:24 AM
-  
+10:24 AM @blueteam2 kyllä, ottakaa operaattoriin tarvittaessa yhteyttä. 
 
-@blueteam2 kyllä, ottakaa operaattoriin tarvittaessa yhteyttä. 
 blueteam1
-10:25 AM
-  
+10:25 AM @blueteam2 nettisivuissa ongelmia edelleen
+10:25 AM @blueteam2 lukekaa niit tikettei ees välilä #lol
 
-@blueteam2 nettisivuissa ongelmia edelleen
-10:25 AM
-  
-
-@blueteam2 lukekaa niit tikettei ees välilä #lol
 blueteam2
-10:28 AM
-  
+10:28 AM @samijaffa kuka hoitaa meidän nettisivuja?
+10:28 AM ei löydy meidän liikenteestä
+10:30 AM @samijaffa saadaako blockata uusi osoite puolasta?
 
-@samijaffa kuka hoitaa meidän nettisivuja?
-10:28 AM
-  
-
-ei löydy meidän liikenteestä
-10:30 AM
-  
-
-@samijaffa saadaako blockata uusi osoite puolasta?
 samijaffa
-10:32 AM
-  
+10:32 AM @blueteam2, meidän vastuulla.
 
-@blueteam2, meidän vastuulla.
 blueteam2
-10:32 AM
-  
+10:32 AM @blueteam1 onko hissien tilanne mikä?
 
-@blueteam1 onko hissien tilanne mikä?
 samijaffa
-10:33 AM
-  
+10:33 AM @blueteam2 jos liikenne aiheuttaa yrityksen toimintaan ongelmia, rajoittakaa liikenne, ja seuratkaa vaikutuksia.
 
-@blueteam2 jos liikenne aiheuttaa yrityksen toimintaan ongelmia, rajoittakaa liikenne, ja seuratkaa vaikutuksia.
 blueteam1
-10:33 AM
-  
+10:33 AM @blueteam2 valvonta näkymä normaali nettisivut ei toimi
 
-@blueteam2 valvonta näkymä normaali nettisivut ei toimi
 samijaffa
-10:33 AM
-  
+10:33 AM @blueteam1, @blueteam2 yrityksen sivut alhaalla, jälleen. (edited)
 
-@blueteam1, @blueteam2 yrityksen sivut alhaalla, jälleen. (edited)
 blueteam2
-10:34 AM
-  
+10:34 AM @samijaffa puolasta tulee dos nettisivuille. voidaanko blockata?
 
-@samijaffa puolasta tulee dos nettisivuille. voidaanko blockata?
 samijaffa
-10:35 AM
-  
+10:35 AM @blueteam2 samasta osoitteesta kuin aikaisemmin? Blokatkaa!
+10:35 AM @blueteam1 mikä hätänä?
 
-@blueteam2 samasta osoitteesta kuin aikaisemmin? Blokatkaa!
-10:35 AM
-  
-
-@blueteam1 mikä hätänä?
 blueteam1
-10:36 AM
-  
+10:36 AM tiketti laitettu valvomo on out
 
-tiketti laitettu valvomo on out
 samijaffa
-10:36 AM
-  
+10:36 AM @blueteam1 kokonaan?
 
-@blueteam1 kokonaan?
 blueteam1
-10:36 AM
-  
+10:36 AM hopeless we out
+10:36 AM help please 
 
-hopeless we out
-10:36 AM
-  
-
-help please 
 blueteam2
-10:36 AM
-  
+10:36 AM @samijaffa sivut pitäisi toimia nyt
 
-@samijaffa sivut pitäisi toimia nyt
 samijaffa
-10:36 AM
-  
+10:36 AM @blueteam2 ottakaa koppi! Välittömästi. Tehkää tarvittavat toimenpiteet.
 
-@blueteam2 ottakaa koppi! Välittömästi. Tehkää tarvittavat toimenpiteet.
 blueteam1
-10:38 AM
-  
-
-@blueteam2 MAYDAY
+10:38 AM @blueteam2 MAYDAY
